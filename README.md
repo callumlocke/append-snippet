@@ -1,6 +1,8 @@
 # append-snippet
 
 
+A function that synchronously injects a snippet of markup into an HTML document, immediately before the closing `</body>` tag.
+
 ```js
 var appendSnippet = require('append-snippet');
 

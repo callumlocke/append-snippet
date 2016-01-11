@@ -8,6 +8,8 @@
   "files": [
     "index.js"
   ],
+  "license": "MIT",
+  "repository": "callumlocke/append-snippet",
   "scripts": {
     "test": "mocha"
   }
