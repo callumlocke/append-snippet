@@ -1,0 +1,14 @@
+{
+  "name": "append-snippet",
+  "description": "Synchronously append a snippet of markup to an HTML document.",
+  "version": "0.0.0",
+  "devDependencies": {
+    "mocha": "^2.3.4"
+  },
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "mocha"
+  }
+}
