@@ -1,4 +1,4 @@
-var appendSnippet = require('.');
+var appendSnippet = require('./index');
 var assert = require('assert');
 
 describe('add-snippet', function () {
